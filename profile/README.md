@@ -2,8 +2,20 @@
 
 Bienvenue sur le l'Organisation du crew de CPE Lyon.
 
+Le crew est une petite équipe de pote comptant 8 futures ingénieurs au seins de CPE, passioné par tout un tas de domaines et prêt à découvrir de nouvelles choses 
+
+
+Voici les membres de l'organisations : 
+
+- Alexandre FAUBLADIER--ANETTE (Owner)
+- Tristan ROUX 
+- Louis Brunet Lecomte
+ 
+
 ## Objectifs 
 
+- Devenir/Découvrir de nouveaux domaines de compétences (Développement, Réseau, Cyber, IA, Pentest, autres ?)
+- Apprendre les bonnes conventions et normes en développement
 
 ## Projets 
 
