@@ -14,7 +14,7 @@ Voici les membres de l'organisations :
 
 ## Objectifs 
 
-- Devenir/Découvrir de nouveaux domaines de compétences (Développement, Réseau, Cyber, IA, Pentest, autres ?)
+- Découvrir de nouveaux domaines et monter en compétences (Développement, Réseau, Cybersécurité, IA, Pentest, etc.)
 - Apprendre les bonnes conventions et normes en développement
 
 ## Projets 
