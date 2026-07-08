@@ -11,8 +11,8 @@ Voici les membres de l'organisations :
 - Tristan ROUX 
 - Louis Brunet Lecomte
 - Valentin Ryckaert
-- Timothée REY 
-
+- Timothée Rey
+- Aurelien Rosat
 ## Objectifs 
 
 - Découvrir de nouveaux domaines et monter en compétences (Développement, Réseau, Cybersécurité, IA, Pentest, etc.)
