@@ -10,6 +10,7 @@ Voici les membres de l'organisations :
 - Alexandre FAUBLADIER--ANETTE (Owner)
 - Tristan ROUX 
 - Louis Brunet Lecomte
+- Valentin Ryckaert
  
 
 ## Objectifs 
@@ -19,10 +20,9 @@ Voici les membres de l'organisations :
 
 ## Projets 
 
-- 
-- 
-- 
-
+- CDFR - Développement d'un PAMI
+- Base de connaissances commune
+- Supports de cours et aide au développement
 <!--
 
 **Here are some ideas to get you started:**
