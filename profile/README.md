@@ -11,7 +11,7 @@ Voici les membres de l'organisations :
 - Tristan ROUX 
 - Louis Brunet Lecomte
 - Valentin Ryckaert
- 
+- Timothée REY 
 
 ## Objectifs 
 
