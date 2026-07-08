@@ -22,6 +22,8 @@ Voici les membres de l'organisations :
 
 - CDFR - Développement d'un PAMI
 - Base de connaissances commune
+- L'algo en 27 exos
+- Europeanize Yourself
 - Supports de cours et aide au développement
 <!--
 
