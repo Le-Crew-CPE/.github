@@ -1,4 +1,15 @@
-## Hi there 👋
+## Le CREW de CPE
+
+Bienvenue sur le l'Organisation du crew de CPE Lyon.
+
+## Objectifs 
+
+
+## Projets 
+
+- 
+- 
+- 
 
 <!--
 
